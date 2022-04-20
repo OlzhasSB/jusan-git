@@ -52,3 +52,4 @@
 | Telegram      | [Ссылка](https://github.com/OlzhasSB) | 5 минут       |
 
 
+Скрипт username.sh выводит ваше имя
